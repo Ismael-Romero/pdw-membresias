@@ -9,4 +9,7 @@ El objetivo de estos es observar como es posible que se agreguen datos a una bas
 ¿Cómo se logra esto?
 Esto se logra a través del atributo action de la etiqueta form. En este ejemplo se hace uso de una API publica en https://membership.404backup.com/api/cliente
 
-> <form action="https://membership.404backup.com/api/cliente" method="post" enctype="multipart/form-data" onsubmit="return validar()">
+
+``` html 
+ <form action="https://membership.404backup.com/api/cliente" method="post" enctype="multipart/form-data">
+```
