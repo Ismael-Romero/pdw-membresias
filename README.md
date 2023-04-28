@@ -1,9 +1,12 @@
 # Proyecto membresia veterinaria
 Proyectos desarrollados durante la materia -Desarrollo Web-
 
-### ver
+### Ver online
 
 https://membership.404backup.com/
+
+### Probar offline
+Este repositorio cuenta con un directorio nomabrado dist que permite probar el formulario sin necesidad de un servidor web.
 
 ### Colaboradores: 
 - Gustavo Isamel Romero Morales
